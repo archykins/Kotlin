@@ -5,4 +5,5 @@ fun main(args: Array<String>) {
     val pop = stringStroka.replace("[^a-zA-Zа-яёА-ЯЁ]".toRegex(), "")
     print("Число букв в строке - ")
     println(pop.count())
+
 }
