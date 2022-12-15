@@ -1,6 +1,6 @@
 import sun.net.www.content.text.Generic
 import java.lang.Exception
-// пока в олном проекте, чтобы было удобнее, потом перенесу в другую вкладку
+// пока в одном проекте, чтобы было удобнее, потом перенесу в другую вкладку
 // Поставьте пж офлайн пару :)
 fun main(args: Array<String>) {
 val pochtadress = Pochtadress()
